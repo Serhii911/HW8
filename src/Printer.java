@@ -9,5 +9,6 @@ public class Printer {
         printShape(new Triangle());
         printShape(new Rhombus());
         printShape(new Rectangle());
+
     }
 }
