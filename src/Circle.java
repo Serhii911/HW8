@@ -2,6 +2,6 @@ public class Circle extends Shape {
 
     @Override
     public void shapePrint() {
-        System.out.println("Circlee");
+        System.out.println("Circle");
     }
 }
